@@ -1,0 +1,2 @@
+# SomeKindOfShop
+just a shop
